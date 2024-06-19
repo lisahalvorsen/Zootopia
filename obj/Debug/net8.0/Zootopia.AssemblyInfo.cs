@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Zootopia")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+825942b1467887776efb8ea555d49147bf6672a9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Zootopia")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Zootopia")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
